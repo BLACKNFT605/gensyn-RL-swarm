@@ -28,9 +28,7 @@ You can run the node with CPU only if you don’t have a GPU.
 
 # 🚀 RL Swarm Node Setup (Ubuntu)
 ### 1. Create a backup directory
-'''
-mkdir swarm.backup
-'''
+'mkdir swarm.backup'
 
 ### 2. Copy your swarm.pem file
 cp rl-swarm/swarm.pem swarm.backup

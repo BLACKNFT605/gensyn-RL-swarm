@@ -1,4 +1,4 @@
-#Heading 1 gensyn-RL-swarm
-Easy guide to run Gensyn RL-Swarm node.
+# Heading 1 gensyn-RL-swarm
+## Heading 2 Easy guide to run Gensyn RL-Swarm node.
 **Run RL Swarm (Testnet) Node
 **
